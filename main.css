@@ -1,0 +1,55 @@
+body {
+	background-color: #232323;
+}
+
+.square {
+	width: 30%;
+	background: #444;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 25%;
+	transition: background 0.2s;
+	-webkit-transition: background 0.2s;
+	-moz-transition: background 0.2s;
+}
+
+#container {
+	margin: 0px auto;
+	max-width: 600px;
+}
+
+h1 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+.jumbotron{
+	background:#444;
+	padding: 2rem;
+}
+
+
+nav{
+	background: #444;
+}
+
+a{
+	color:white;
+	align-self: center;
+}
+
+.display-4{
+	font-size: 1.5rem;
+}
+
+.easy{
+	margin: 1rem;
+}
+
+.hard{
+	margin: 1rem;
+}
